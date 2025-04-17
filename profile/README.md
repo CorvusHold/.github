@@ -1,4 +1,4 @@
-<img src="img/logo_texte.svg" alt="Corvus Hold" width="500" align="center">
+<img src="../img/logo_texte.svg" alt="Corvus Hold" width="500" align="center">
 
 **Corvus** delivers an open-source, transparent, and auditable Infrastructure Security Automation Platform. It's currently in heavy development.
 The platform is built on top of Golang and Rust for its core components.
